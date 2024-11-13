@@ -1,2 +1,2 @@
 # CWT-EMG
-This project is based of my Analisis Sinyal Nonstasioner Assignment
+This project is based on my Analisis Sinyal Nonstasioner Assignment
